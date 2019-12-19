@@ -1,0 +1,6 @@
+﻿  circle.cpp
+d:\360movedata\users\asus\desktop\编程\vc++\vc++\vc++\circle.cpp(15): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\360movedata\users\asus\desktop\编程\vc++\vc++\vc++\circle.cpp(21): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  vc++.cpp
+  正在生成代码...
+  p28-2017050323.vcxproj -> D:\360MoveData\Users\asus\Desktop\编程\p28-2017050323\Debug\p28-2017050323.exe
